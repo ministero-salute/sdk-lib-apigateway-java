@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.rest.persistence.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;

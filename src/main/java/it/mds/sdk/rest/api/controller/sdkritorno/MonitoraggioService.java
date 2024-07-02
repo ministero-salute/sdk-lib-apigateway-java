@@ -1,3 +1,5 @@
+/* SPDX-License-Identifier: BSD-3-Clause */
+
 package it.mds.sdk.rest.api.controller.sdkritorno;
 
 import it.mds.sdk.rest.persistence.entity.sdkritorno.RisultatoElaborazione;
